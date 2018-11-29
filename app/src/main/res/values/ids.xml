@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="insertName" type="id" />
+    <item name="getName" type="id" />
+    <item name="getNumber" type="id" />
+</resources>
